@@ -1,0 +1,5 @@
+print("Enter Number")
+numInteger = int(input())
+print(type(numInteger))
+print(str(numInteger))
+print(type(str(numInteger)))
