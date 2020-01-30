@@ -1,0 +1,5 @@
+inputString = input().split(" ")
+print(inputString)
+print(len(inputString))
+newString = '-'.join(inputString)
+print(newString)
